@@ -1,5 +1,5 @@
 package org.bigbluebutton.view.navigation
-{
+{	
 	import mx.events.FlexEvent;
 	
 	import org.bigbluebutton.model.IUserUISession;
